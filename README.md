@@ -49,7 +49,7 @@ src/main/java/TwentyFortyEight/
 3. Run the `App.java` file
 
 Alternatively:
-./gradlew run
+gradle run
 
 ---
 
